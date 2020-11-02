@@ -1,2 +1,2 @@
 # Assignment9
- jQuery
+ jQuery Basics and Event handling
